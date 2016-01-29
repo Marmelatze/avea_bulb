@@ -1,12 +1,16 @@
 {
-  "name": "avea",
+  "name": "avea_bulb",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Florian Pfitzer <florian.pfitzer@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Marmelatze/avea_node.git"
+  },
   "license": "MIT",
   "dependencies": {
     "mutex-promise": "^0.1.0",
